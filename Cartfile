@@ -1,0 +1,6 @@
+github "ReactiveX/RxSwift" "3.0.0-rc.1"
+github "Alamofire/Alamofire" ~> 4.0.1
+github "Hearst-DD/ObjectMapper" ~> 2.1.0
+github "realm/realm-cocoa" "v2.0.2"
+github "rs/SDWebImage"
+github "SwiftyJSON/SwiftyJSON" ~> 3.1.1
